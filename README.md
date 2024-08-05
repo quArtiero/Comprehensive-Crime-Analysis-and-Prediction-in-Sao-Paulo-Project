@@ -92,17 +92,6 @@ How to Run the Project
 2. Install the required dependencies listed in the `requirements.txt` file.
 3. Open and run the Jupyter Notebook provided in the repository to perform the analysis and predictive modeling.
 
-Requirements
-------------
-- Python 3.x
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- statsmodels
-- Jupyter Notebook
-
 Contributors
 ------------
 - Pedro Quartiero (https://github.com/quArtiero)
