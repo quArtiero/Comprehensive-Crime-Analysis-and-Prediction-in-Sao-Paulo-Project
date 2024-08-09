@@ -18,9 +18,6 @@ Table of Contents
    - Objective
    - Feature Engineering
    - Model Training and Evaluation
-5. Socio-Economic Analysis
-   - Correlation Analysis
-   - Impact Assessment
 6. How to Run the Project
 7. Requirements
 8. Contributors
@@ -75,22 +72,11 @@ Two models are trained and evaluated:
 - Likelihood of Robbery: A Random Forest Classifier predicts the likelihood of being robbed.
 - Value of Items Stolen: A Random Forest Regressor predicts the value of items stolen.
 
-Socio-Economic Analysis
------------------------
-
-Correlation Analysis
---------------------
-The correlation between crime rates and socio-economic factors is analyzed.
-
-Impact Assessment
------------------
-A regression model assesses the impact of socioeconomic factors on crime rates.
-
 How to Run the Project
 ----------------------
 1. Clone the repository.
 2. Install the required dependencies listed in the `requirements.txt` file.
-3. Open and run the Jupyter Notebook provided in the repository to perform the analysis and predictive modeling.
+3. Open and run the Jupyter Notebook in the repository to perform the analysis and predictive modeling.
 
 Contributors
 ------------
