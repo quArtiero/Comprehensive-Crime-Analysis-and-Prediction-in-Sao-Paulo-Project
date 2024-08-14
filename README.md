@@ -28,7 +28,6 @@ Introduction
 This project uses crime data from São Paulo to perform a comprehensive analysis. The analysis includes cleaning and preprocessing data, exploring data trends through visualization, and developing predictive models to understand and forecast crime patterns. 
 Data Collection and Preprocessing
 ---------------------------------
----------------------------------
 Handle Missing Values and Inconsistencies
 
 -----------------------------------------
