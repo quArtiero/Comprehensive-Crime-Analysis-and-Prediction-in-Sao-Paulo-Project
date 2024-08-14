@@ -2,7 +2,7 @@ Comprehensive Crime Analysis and Prediction in São Paulo
 
 Project Overview
 ----------------
-This project aims to analyze crime data in São Paulo, identify trends and patterns, and develop predictive models to forecast future crime occurrences. It also explores socio-economic factors influencing crime rates, providing actionable insights for policymakers.
+This project aims to analyze crime data in São Paulo, identify trends and patterns, and develop predictive models to forecast future crime occurrences.
 
 Table of Contents
 -----------------
@@ -25,12 +25,12 @@ Table of Contents
 
 Introduction
 ------------
-This project uses crime data from São Paulo to perform a comprehensive analysis. The analysis includes cleaning and preprocessing data, exploring data trends through visualization, and developing predictive models to understand and forecast crime patterns. The project also examines the relationship between socioeconomic factors and crime rates.
-
+This project uses crime data from São Paulo to perform a comprehensive analysis. The analysis includes cleaning and preprocessing data, exploring data trends through visualization, and developing predictive models to understand and forecast crime patterns. 
 Data Collection and Preprocessing
 ---------------------------------
-
+---------------------------------
 Handle Missing Values and Inconsistencies
+
 -----------------------------------------
 The dataset is cleaned by addressing missing values and inconsistencies. Rows with critical missing data are removed, and placeholders are used where appropriate.
 
